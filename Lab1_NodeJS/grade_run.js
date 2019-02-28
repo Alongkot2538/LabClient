@@ -1,0 +1,2 @@
+require('./grade.js')
+grade()

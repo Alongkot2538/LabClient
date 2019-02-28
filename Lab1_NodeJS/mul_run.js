@@ -1,0 +1,2 @@
+require('./mul.js')
+mul()
